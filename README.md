@@ -11,9 +11,9 @@
 ## 
 
 
-## Certification
+## Certificates
 
 
 
 
-## Coursework
+## Course Work
