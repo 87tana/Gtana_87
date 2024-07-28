@@ -1,6 +1,6 @@
-# Gtana_87
 
- ## Profile Overview
+
+ ## Data Science Portfolio
 
 - **Bio:** Data scientist specializing in computer vision with a background in neuroimaging and biosignal processing.
 - **Programming:** Python,MATLAB
