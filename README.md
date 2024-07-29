@@ -17,7 +17,8 @@ I got about a 10% improvement in segmentation results over the baseline model.
 
 #### Methods: 
 
-Convolutional Neural Network (PyTorch), Image Semantic Segmentation, Computer Vision, Medical Imaging
+Deep Learning(PyTorch), Convolutional Neural Network (CNN), Computer Vision (OpenCV & pretrained CNNs),Image Semantic Segmentation(ResNet-18, VGG-16),Data Augmentation(Elastic, Affine),Loss Functions(BCE,DiceLoss)
+
 
 #### GitHub Repo:
 
