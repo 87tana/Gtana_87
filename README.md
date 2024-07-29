@@ -10,19 +10,19 @@
 
 #### Summary:
 
-### Methods:
+#### Methods:
 
 ### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
 
 #### Summary:
 
-### Methods:
+#### Methods:
 
 ### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
 
 #### Summary:
 
-### Methods:
+#### Methods:
 
 
 ## 
