@@ -2,8 +2,6 @@
 
 # Data Science Portfolio
 
-##
-
 ## Selected Projects
 
 ### [Exploring CNN Components for Tumor Segmentation in MRI Images: An Ablation Study](https://github.com/87tana/Image-Semantic-Segmentation)  
@@ -20,7 +18,15 @@ I got about a 10% improvement in segmentation results over the baseline model.
 Deep Learning(PyTorch), Convolutional Neural Network (CNN), Computer Vision (OpenCV & pretrained CNNs),Image Semantic Segmentation,Data Augmentation,Loss Functions
 
 
-#### GitHub Repo:
+#### GitHub repo:
+[ImageSegmentation](https://github.com/87tana/Image-Semantic-Segmentation)
+
+#### Articles out of this project:
+
+[Exploring CNN Components for Tumor segmentation in MRI Images:An oblation study](https://medium.com/@t.mostafid/exploring-cnn-components-for-tumor-segmentation-in-mri-images-an-ablation-study-d79cdfd25083)
+
+
+[Tumor Semantic Segmentation with U-Net and Deeplabv3+](https://medium.com/@t.mostafid/tumor-segmentation-with-u-net-and-deeplabv3-a-review-048e10001fb2)
 
 #### Papers:
 
