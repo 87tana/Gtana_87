@@ -15,7 +15,11 @@ My experiments show that ResNet is more effective than the VGG architecture, and
 I got about a 10% improvement in segmentation results over the baseline model.
 
 
-#### Methods:
+#### Methods: 
+
+Convolutional Neural Network(PyTorch), Image Semantic Segmentation, Computer Vision, Medical imaging
+
+#### GitHub Repo:
 
 ### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
 
