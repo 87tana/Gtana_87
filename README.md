@@ -15,9 +15,13 @@ My experiments show that ResNet is more effective than the VGG architecture, and
 I got about a 10% improvement in segmentation results over the baseline model.
 
 
+Optimizing neural network performance for complex tasks involves careful evaluation of various architectural components and optimization techniques. In this project, I investigated how different elements of convolutional neural networks (CNNs) impact performance in image segmentation tasks. By comparing two architectures, ResNet and VGG, I determined that ResNet offers superior performance.
+
+Furthermore, I explored the benefits of advanced techniques such as dilated convolutions and data augmentation. These strategies not only improved model accuracy but also enhanced its ability to generalize to new data, resulting in a 10% improvement over the baseline model. This approach highlights the importance of selecting appropriate architectures and employing effective optimization strategies in neural network design.
+
 #### Methods: 
 
-Convolutional Neural Network(PyTorch), Image Semantic Segmentation, Computer Vision, Medical imaging
+Convolutional Neural Network (PyTorch), Image Semantic Segmentation, Computer Vision, Medical Imaging
 
 #### GitHub Repo:
 
