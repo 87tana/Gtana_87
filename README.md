@@ -36,6 +36,12 @@ Deep Learning(PyTorch), Convolutional Neural Network (CNN), Computer Vision (Ope
 
 #### Summary:
 
+- Evaluate performance of four leading deep convolutional neural network (CNN) models: VGG16, ResNet50, Xception, and MobileNet.
+- Use TensorFlow and Keras for implementations.
+- Employ Categorical Cross-Entropy loss and Adam optimizer.
+- Apply data augmentation during model training to enhance diversity and generalizability.
+
+
 #### Methods:
 
 ### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
