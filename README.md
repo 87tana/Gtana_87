@@ -8,7 +8,7 @@
 
 #### [Exploring CNN Components for Tumor Segmentation in MRI Images: An Ablation Study](https://github.com/87tana/Image-Semantic-Segmentation)  
 
-#### Summary:
+##### Summary:
 
 * Investigate different components of a convolutional neural network (CNN) affect performance in image segmentation tasks.
 * Compare the effectiveness of two different architectures.(ResNet-18, VGG-16)
@@ -22,7 +22,7 @@
 
 * Achieved about a 10% improvement in segmentation results over the baseline model.
 
-#### Methods: 
+##### Methods: 
 
 * Deep Learning(PyTorch),
 * Convolutional Neural Network (CNN),
@@ -31,10 +31,10 @@
 * Data Augmentation & Loss Functions
 
 
-#### GitHub repo:
+##### GitHub repo:
 [ImageSegmentation](https://github.com/87tana/Image-Semantic-Segmentation)
 
-#### Papers:
+##### Papers:
 
 [Exploring CNN Components for Tumor segmentation in MRI Images:An oblation study](https://medium.com/@t.mostafid/exploring-cnn-components-for-tumor-segmentation-in-mri-images-an-ablation-study-d79cdfd25083)
 
@@ -47,7 +47,7 @@
 
 #### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
 
-#### Summary:
+##### Summary:
 
 - Evaluate performance of four leading deep convolutional neural network (CNN) models: VGG16, ResNet50, Xception, and MobileNet.
 - Use TensorFlow and Keras for implementations.
@@ -55,13 +55,13 @@
 - Apply data augmentation during model training to enhance diversity and generalizability.
 
 
-#### Methods:
+##### Methods:
 
-#### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
+##### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
 
-#### Summary:
+##### Summary:
 
-#### Methods:
+##### Methods:
 
 
 ## 
