@@ -24,7 +24,11 @@
 
 #### Methods: 
 
-Deep Learning(PyTorch), Convolutional Neural Network (CNN), Computer Vision (OpenCV & pretrained CNNs),Image Semantic Segmentation,Data Augmentation,Loss Functions
+* Deep Learning(PyTorch),
+* Convolutional Neural Network (CNN),
+* Computer Vision (OpenCV & pretrained CNNs),
+* Image Semantic Segmentation,
+* Data Augmentation & Loss Functions
 
 
 #### GitHub repo:
@@ -41,7 +45,7 @@ Deep Learning(PyTorch), Convolutional Neural Network (CNN), Computer Vision (Ope
 
 ## 
 
-### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
+#### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
 
 #### Summary:
 
@@ -53,7 +57,7 @@ Deep Learning(PyTorch), Convolutional Neural Network (CNN), Computer Vision (Ope
 
 #### Methods:
 
-### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
+#### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
 
 #### Summary:
 
@@ -64,13 +68,15 @@ Deep Learning(PyTorch), Convolutional Neural Network (CNN), Computer Vision (Ope
 
 ## Certificates
 
-[Structuring Machine learning Projects](https://www.coursera.org/account/accomplishments/certificate/APMCX7NE3GDJ)
+* [Structuring Machine learning Projects](https://www.coursera.org/account/accomplishments/certificate/APMCX7NE3GDJ)
 
-[AI for Medical Diagnosis](https://www.coursera.org/account/accomplishments/certificate/QLQRBNSTQX7U)
+* [AI for Medical Diagnosis](https://www.coursera.org/account/accomplishments/certificate/QLQRBNSTQX7U)
 
-[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/SKKXGQQMME6T)
+* [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/SKKXGQQMME6T)
 
-[Machine Learning in Production](https://www.coursera.org/account/accomplishments/certificate/XUXHPNLSXX8K)
+* [Machine Learning in Production](https://www.coursera.org/account/accomplishments/certificate/XUXHPNLSXX8K)
+
+* [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/certificate/RU39832HDL66)
 
 
 
