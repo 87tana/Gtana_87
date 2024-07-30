@@ -61,7 +61,7 @@ Deep Learning(PyTorch), Convolutional Neural Network (CNN), Computer Vision (Ope
 
 [Improving Deep Neu ral Netw orks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/SKKXGQQMME6T)
 
-
+[Machine Learning in Produ ction](https://www.coursera.org/account/accomplishments/certificate/XUXHPNLSXX8K)
 
 
 
