@@ -10,7 +10,7 @@
 
 #### Summary:
 
-* Investigate how different components of a convolutional neural network (CNN) affect performance in image segmentation tasks.
+* Investigate different components of a convolutional neural network (CNN) affect performance in image segmentation tasks.
 * Compare the effectiveness of two different architectures.(ResNet-18, VGG-16)
 * Investigate the impact of different data augmentation (Elastic, Affine), Loss Function(BCE, Dice) and other optimization strategies on results.
 * Experiments show:
