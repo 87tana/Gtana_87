@@ -59,9 +59,9 @@ Deep Learning(PyTorch), Convolutional Neural Network (CNN), Computer Vision (Ope
 
 [AI for Medical Diagnosis](https://www.coursera.org/account/accomplishments/certificate/QLQRBNSTQX7U)
 
-[Improving Deep Neu ral Netw orks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/SKKXGQQMME6T)
+[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/SKKXGQQMME6T)
 
-[Machine Learning in Produ ction](https://www.coursera.org/account/accomplishments/certificate/XUXHPNLSXX8K)
+[Machine Learning in Production](https://www.coursera.org/account/accomplishments/certificate/XUXHPNLSXX8K)
 
 
 
