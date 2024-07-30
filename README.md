@@ -4,14 +4,23 @@
 
 ## Selected Projects
 
-### [Exploring CNN Components for Tumor Segmentation in MRI Images: An Ablation Study](https://github.com/87tana/Image-Semantic-Segmentation)  
+### Deep Learning:
+
+#### [Exploring CNN Components for Tumor Segmentation in MRI Images: An Ablation Study](https://github.com/87tana/Image-Semantic-Segmentation)  
 
 #### Summary:
 
-In this project, I investigate how different components of a convolutional neural network (CNN) affect its performance in image segmentation tasks. I compare the effectiveness of two different architectures and investigate how data augmentation and optimisation strategies affect the results. 
+* Investigate how different components of a convolutional neural network (CNN) affect performance in image segmentation tasks.
+* Compare the effectiveness of two different architectures.(ResNet-18, VGG-16)
+* Investigate the impact of different data augmentation (Elastic, Affine), Loss Function(BCE, Dice) and other optimization strategies on results.
+* Experiments show:
+  * ResNet-18 is more effective than the VGG-16 architecture.
+  * Using dilated convolutions improves segmentation results.
+  * Data augmentation increases the model's ability to generalize.
+  * Achieved about a 10% improvement in segmentation results over the baseline model.
 
-My experiments show that ResNet is more effective than the VGG architecture, and that using dilated convolutions improves segmentation results. In addition, data augmentation increases the model's ability to generalise. 
-I got about a 10% improvement in segmentation results over the baseline model.
+
+* Achieved about a 10% improvement in segmentation results over the baseline model.
 
 #### Methods: 
 
