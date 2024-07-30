@@ -7,8 +7,8 @@
 #### [Exploring CNN Components for Tumor Segmentation in MRI Images: An Ablation Study](https://github.com/87tana/Image-Semantic-Segmentation)  
 
 <div align="center">
-    <img width="600" src="/images/Screenshot from 2024-07-30 10-30-27.png" alt="Material Bread logo">
-    <p style= "text-align: center;">Figure 1: Studied Segmentation Network,Created by autor.</p> 
+    <img width="600" src="/Images/Screenshot from 2024-07-30 10-30-27.png" alt="Material Bread logo">
+    <p style= "text-align: center;">Figure 1: Segmentation Application </p> 
 </div>
 
 ##### Summary:
