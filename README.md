@@ -11,6 +11,9 @@
     <p style= "text-align: center;">Figure 1: Segmentation Application </p> 
 </div>
 
+#### What is semantic segmentation?
+
+
 ##### Summary:
 
 * Investigate different components of a convolutional neural network (CNN) affect performance in image segmentation tasks.
